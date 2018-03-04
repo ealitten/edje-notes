@@ -1,3 +1,5 @@
+// A behaviour driven testing framework for Javascript
+
 (function(exports) {
 
   var Jennifer = function() {
