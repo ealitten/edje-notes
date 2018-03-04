@@ -74,3 +74,9 @@ Jennifer needs the greenlight to start testing. Either place the following insid
 ```javascript
 jennifer.runTests(function () { noteList = new NoteList() });
 ```
+
+## Possible extensions
+
+- Allow beforeEach block to be written in spec files, rather than passed as argument
+- Add describe blocks, similar to Jasmine
+- Add testrunner page, which runs tests in isolate of the actual app page
